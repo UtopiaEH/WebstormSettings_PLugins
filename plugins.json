@@ -1,0 +1,200 @@
+{
+  "plugins": [
+    {
+      "pluginId": "Key Promoter X",
+      "pluginName": "Key Promoter X",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "PHPUnit code coverage",
+      "pluginName": "PHPUnit code coverage",
+      "downloadUrl": "https://github.com/oker1/phpunit_codecoverage_display",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "String Manipulation",
+      "pluginName": "String Manipulation",
+      "downloadUrl": "https://github.com/krasa/StringManipulation",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform",
+        "com.intellij.modules.java"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.intellij.modules.java"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.alayouni.ansiHighlight",
+      "pluginName": "ANSI Highlighter",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform",
+        "com.intellij.modules.lang",
+        "com.intellij.modules.vcs",
+        "com.intellij.modules.xml"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.chrisrm.idea.MaterialThemeUI",
+      "pluginName": "Material Theme UI",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform",
+        "com.intellij.modules.lang",
+        "org.jetbrains.android",
+        "org.jetbrains.kotlin"
+      ],
+      "optionalDependencyPluginIds": [
+        "org.jetbrains.android",
+        "org.jetbrains.kotlin"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.godwin.json.parser",
+      "pluginName": "Json Parser",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.intellij.ideolog",
+      "pluginName": "Ideolog",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.mallowigi",
+      "pluginName": "Atom Material Icons",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "de.cmm.side_nodes",
+      "pluginName": "SideNotes",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "net.seesharpsoft.intellij.plugins.file-preview",
+      "pluginName": "Quick File Preview",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "net.vektah.codeglance",
+      "pluginName": "CodeGlance",
+      "downloadUrl": "https://github.com/Vektah/CodeGlance",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang"
+      ],
+      "optionalDependencyPluginIds": [],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "com.intellij.lang.jsgraphql",
+      "pluginName": "JS GraphQL",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "JavaScript",
+        "org.intellij.intelliLang"
+      ],
+      "optionalDependencyPluginIds": [
+        "JavaScript",
+        "org.intellij.intelliLang"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "izhangzhihao.rainbow.brackets",
+      "pluginName": "Rainbow Brackets",
+      "dependencyPluginIds": [
+        "com.intellij.modules.lang",
+        "org.jetbrains.kotlin",
+        "JavaScript",
+        "Dart",
+        "org.intellij.groovy",
+        "com.intellij.modules.rider",
+        "intellij.haskell",
+        "com.intellij.database",
+        "com.intellij.modules.clion",
+        "com.jetbrains.sh",
+        "com.jetbrains.php"
+      ],
+      "optionalDependencyPluginIds": [
+        "org.jetbrains.kotlin",
+        "JavaScript",
+        "Dart",
+        "org.intellij.groovy",
+        "com.intellij.modules.rider",
+        "intellij.haskell",
+        "com.intellij.database",
+        "com.intellij.modules.clion",
+        "com.jetbrains.sh",
+        "com.jetbrains.php"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    },
+    {
+      "pluginId": "ru.adelf.idea.dotenv",
+      "pluginName": ".env files support",
+      "dependencyPluginIds": [
+        "com.intellij.modules.platform",
+        "com.jetbrains.php",
+        "com.intellij.modules.ruby",
+        "com.intellij.modules.python",
+        "JavaScript",
+        "org.jetbrains.plugins.go",
+        "Docker",
+        "org.jetbrains.plugins.yaml"
+      ],
+      "optionalDependencyPluginIds": [
+        "com.jetbrains.php",
+        "com.intellij.modules.ruby",
+        "com.intellij.modules.python",
+        "JavaScript",
+        "org.jetbrains.plugins.go",
+        "Docker",
+        "org.jetbrains.plugins.yaml"
+      ],
+      "isBundle": false,
+      "isEnable": true
+    }
+  ]
+}
